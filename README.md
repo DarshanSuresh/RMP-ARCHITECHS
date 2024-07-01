@@ -1,4 +1,4 @@
-# RMP-ARCHITECHS-WEBSITE 
+# RMP-ARCHITECHS-WEBSITE
 GitHub repository for an website making project.
  
 # Project Title: RMP ARCHITECHS
